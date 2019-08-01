@@ -2,6 +2,9 @@
 prediction of house prices and comparing the performances of different models
 
 
+accuracy of models may vary in different systems
+
+
 Model 1
 
 loss: 0.4521 - mean_squared_error: 0.4521 - mean_absolute_error: 0.3855 - val_loss: 0.6822 - val_mean_squared_error: 0.6822 - val_mean_absolute_error: 0.5474
